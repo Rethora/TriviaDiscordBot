@@ -1,0 +1,4 @@
+.env
+trivia-discord-bot/target/*
+todo
+scoreboard.txt
